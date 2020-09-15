@@ -6,3 +6,4 @@ added in remote44
 added in remote55
 added in local repo
 added in remote to check merge
+change in remote for 3way merge
