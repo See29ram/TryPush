@@ -10,3 +10,4 @@ $$$$$added java code $$$$
 change in remote for 3way merge
 changing in local
 change in remote 2nd time
+last line in local
